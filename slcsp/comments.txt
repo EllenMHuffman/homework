@@ -1,2 +1,15 @@
-dependencies are listed in requirements.txt
-install before running code
+Code is written in Python3 and dependencies are listed in `requirements.txt`.
+Please install dependencies in your virtual env:
+
+`$ pip install requirements.txt`
+
+Run the code with:
+
+`$ python slcsp.py`
+
+
+
+I have also included some unit/integration tests for the code.
+You can run this tests with:
+
+`$ python test.py`
